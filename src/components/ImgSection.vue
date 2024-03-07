@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="px-5" >
-        <img src="../assets/illustration-sign-up-desktop.svg" alt="">
+    <div class=" p-5 w-full">
+        <img class="w-full" src="../assets/illustration-sign-up-desktop.svg" alt="">
     </div>
 </template>

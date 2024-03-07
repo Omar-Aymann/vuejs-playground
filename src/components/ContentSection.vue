@@ -2,10 +2,10 @@
 
 </script>
 <template>
-    <div class=" p-20 flex flex-col">
+    <div class=" p-5 px-10 pl-16 flex flex-col w-full">
         <div class=" text-darkGray">
-            <h3 class=" xl:text-6xl md:text-3xl font-bold py-2">Stay updated!</h3>
-            <p class="py-2 text-base font-bold">Join 60,000+ product managers receiving monthly updates on:</p>
+            <h3 class=" xl:text-5xl text-xl font-extrabold py-3">Stay updated!</h3>
+            <p class="py-3 text-base font-bold pr-5">Join 60,000+ product managers receiving monthly updates on:</p>
         </div>
         <div class="features font-medium">
             <div class="feature">
