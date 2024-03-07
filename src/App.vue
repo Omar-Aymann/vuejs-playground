@@ -1,14 +1,14 @@
 <script setup>
 import { ref } from 'vue';
-    const count = ref(0);
-    function increment() {
-      count.value++
-    }
+import MainContainer from './components/MainContainer.vue';
 </script>
 
 <template>
-  <h1>{{count}}</h1>
-  <button @click="increment">increment</button>
+  <div class="main w-screen text-white h-screen bg-background flex justify-center items-center">
+    <MainContainer />
+  </div>
 </template>
 
-<style scoped></style>
+<style lang="scss" scoped>
+
+</style>

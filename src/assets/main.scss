@@ -1,0 +1,21 @@
+$background-color: #36384e;
+$tomato: #ff6257;
+$dark-gray: #242742;
+$gray: #9294a0;
+.features
+{
+    padding-top: 30px;
+}
+.feature
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0;
+    img {
+        width:20px;
+    }
+    p {
+        padding: 0 10px;
+        font-size: 16px;
+    }
+}
